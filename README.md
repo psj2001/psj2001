@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pranav P S</h1>
 <h3 align="center">A passionate Mobile App developer from UAE</h3>
 
-- 🔭 I’m currently working on [PropTelli](https://play.google.com/store/apps/details?id=com.proptelli.app&pcampaignid=web_share |https://apps.apple.com/ae/app/proptelli/id6744108975)
+- 🔭 I’m currently working on PropTelli (https://play.google.com/store/apps/details?id=com.proptelli.app&pcampaignid=web_share |https://apps.apple.com/ae/app/proptelli/id6744108975)
 
 - 💬 Ask me about **Mobile App Development**
 
