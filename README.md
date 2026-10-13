@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **pranavputhoor91@gmail.com**
 
-- 📄 Know about my experiences [https://pranavps-portfolio.netlify.app/](https://pranavps-portfolio.netlify.app/)
+- 📄 Know about my experiences [https://pranavps-portfolio.netlify.app/](https://pranavps.com)
 
 - ⚡ Fun fact **I think I am funny**
 
